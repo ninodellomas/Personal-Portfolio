@@ -51,13 +51,13 @@ export const Hero = () => {
 
           <div className="hidden md:flex gap-10 p-4 lg:flex-col">
             <a
-              href="https://www.facebook.com/nino.dellomas"
+              href="https://www.facebook.com/nino.dellomas" target="_blank"
               className="bg-bgColor rounded-full shadow-xl flex justify-center items-center w-[50px] h-[50px] lg:w-[70px] lg:h-[70px] cursor-pointer hover:scale-105 ease-in-out duration-300 group"
             >
               <FaFacebook className="text-primary opacity-80 group-hover:opacity-100 text-[30px] lg:text-[42px]" />
             </a>
             <a
-              href="https://github.com/ninodellomas"
+              href="https://github.com/ninodellomas" target="_blank"
               className="bg-bgColor rounded-full shadow-xl flex justify-center items-center w-[50px] h-[50px] lg:w-[70px] lg:h-[70px] cursor-pointer hover:scale-105 ease-in-out duration-300 group"
             >
               <FaGithub className="text-primary opacity-80 group-hover:opacity-100 text-[30px] lg:text-[42px]" />
