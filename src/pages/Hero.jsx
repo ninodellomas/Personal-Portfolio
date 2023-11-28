@@ -12,7 +12,7 @@ export const Hero = () => {
               welcome to my portfolio
             </p>
             <h1 className="text-[36px] md:text-[50px] lg:text-[75px] text-textColor">
-              I'm <span className="font-bold text-primary">Romel Acopra</span>
+              I'm <span className="font-bold text-primary">Niño Dellomas</span>
             </h1>
             <h2 className="text-[20px] lg:text-[36px]">
               I'm a{" "}
@@ -51,13 +51,13 @@ export const Hero = () => {
 
           <div className="hidden md:flex gap-10 p-4 lg:flex-col">
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/nino.dellomas"
               className="bg-bgColor rounded-full shadow-xl flex justify-center items-center w-[50px] h-[50px] lg:w-[70px] lg:h-[70px] cursor-pointer hover:scale-105 ease-in-out duration-300 group"
             >
               <FaFacebook className="text-primary opacity-80 group-hover:opacity-100 text-[30px] lg:text-[42px]" />
             </a>
             <a
-              href="https://github.com/the-name-romel"
+              href="https://github.com/ninodellomas"
               className="bg-bgColor rounded-full shadow-xl flex justify-center items-center w-[50px] h-[50px] lg:w-[70px] lg:h-[70px] cursor-pointer hover:scale-105 ease-in-out duration-300 group"
             >
               <FaGithub className="text-primary opacity-80 group-hover:opacity-100 text-[30px] lg:text-[42px]" />
