@@ -12,15 +12,15 @@ function Contact() {
         <div className="flex flex-col md:flex-row gap-5 mt-5 justify-center">
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1">
-              <FaEnvelope className="text-primary" /> racopra@sorsu.edu.ph
+              <FaEnvelope className="text-primary" /> ninodellomas@hotmai.com
             </div>
             <div className="flex items-center gap-1">
-              <FaPhoneAlt className="text-primary" /> (+63) 9260118040
+              <FaPhoneAlt className="text-primary" /> +1(242)818-3498
             </div>
             <div className="flex items-center gap-1">
-              <FaMapMarkerAlt className="text-primary" /> Magallanes, Sorsogon
+              <FaMapMarkerAlt className="text-primary" /> Eastern Shores Marsh Harbour, Abaco,
               <br />
-              4705, Philippines
+              Bahamas, 00000
             </div>
           </div>
           <form action="" className="space-y-5 text-white w-full max-w-[740px]">
