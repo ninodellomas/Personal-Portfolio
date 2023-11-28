@@ -26,7 +26,7 @@ const Navbar = () => {
       }
     >
       <div className="flex max-w-[1200px] w-full h-full mx-auto px-[15px] md:px-[30px] lg:px-10 justify-between items-center">
-        <h1 className="text-[32px] text-textColor">r.acopra</h1>
+        <h1 className="text-[32px] text-textColor">Niño Dellomas</h1>
 
         <div className="md:hidden hover:scale-105" onClick={menuClick}>
           <FaBars size={24} />
@@ -123,7 +123,7 @@ const Navbar = () => {
           }
         >
           <div className="flex w-full h-[80px] justify-between items-center transition ease-in-out duration-300">
-            <h1 className="text-[32px] text-textColor">r.acopra</h1>
+            <h1 className="text-[32px] text-textColor">Niño Dellomas</h1>
 
             <div
               className="w-9 h-9 rounded-full shadow-lg shadow-gray-400 flex justify-center items-center group hover:scale-105"
@@ -192,13 +192,13 @@ const Navbar = () => {
             <p className="text-[18px] text-primary">LET'S CONNECT</p>
             <div className="flex gap-5">
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/nino.dellomas"
                 className="bg-bgColor rounded-full shadow-xl shadow-gray-400 flex justify-center items-center w-[43px] h-[43px] cursor-pointer hover:scale-105 ease-in-out duration-300 group"
               >
                 <FaFacebook className="text-primary opacity-80 group-hover:opacity-100 text-[22px]" />
               </a>
               <a
-                href="https://github.com/the-name-romel"
+                href="https://github.com/ninodellomas"
                 className="bg-bgColor rounded-full shadow-xl shadow-gray-400 flex justify-center items-center w-[43px] h-[43px] cursor-pointer hover:scale-105 ease-in-out duration-300 group"
               >
                 <FaGithub className="text-primary opacity-80 group-hover:opacity-100 text-[22px]" />
