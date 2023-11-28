@@ -19,9 +19,9 @@ export const Hero = () => {
               <span className="text-primary">
                 <Typewriter
                   words={[
-                    "web developer.",
-                    "student.",
-                    "future full-stack developer.",
+                    "music teacher.",
+                    "world-class music educator with domestic and international teaching experience.",
+          
                   ]}
                   loop={false}
                   cursor
