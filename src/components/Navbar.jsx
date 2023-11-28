@@ -99,7 +99,7 @@ const Navbar = () => {
           </Link>
           <a
             type="button"
-            href="/src/assests/img/NINO_DELLOMAS.pdf" target="_blank"
+            href="C:\Users\Asus\Desktop\Nino\src\assets\img\NINO_DELLOMAS.pdf" target="_blank"
             download
             className="bg-primary text-white text-[16px] px-[28px] py-[16px] hover:bg-opacity-80"
           >

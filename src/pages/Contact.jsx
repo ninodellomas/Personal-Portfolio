@@ -12,7 +12,7 @@ function Contact() {
         <div className="flex flex-col md:flex-row gap-5 mt-5 justify-center">
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1">
-              <FaEnvelope className="text-primary" /> ninodellomas@hotmai.com
+              <FaEnvelope className="text-primary" /> ninodellomas@hotmail.com
             </div>
             <div className="flex items-center gap-1">
               <FaPhoneAlt className="text-primary" /> +1(242)818-3498
