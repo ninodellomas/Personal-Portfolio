@@ -22,9 +22,9 @@ const Projects = () => {
     >
       <div className="mx-auto text-center">
         <h1 className="text-primary text-[32px]">Volunteering</h1>
-        <strong>Music/Choir Director</strong><i>(St. Francis de Sales Church , Marsh Harbour, Abaco, Bahamas ) |November 2022</i>
-        <strong>Music/ Choir Director</strong><i>(Sts. Mary and Andrew Church , Treasure Cay, Abaco, Bahamas ) |November 2023</i>
-        <strong>Music/Choir Director </strong><i>(St. Joseph Parish , Barcelona, Sorsogon, Philippines ) | April 2014 - November 2022</i> 
+        <strong>Music/Choir Director</strong><i>(St. Francis de Sales Church , Marsh Harbour, Abaco, Bahamas ) |November 2022</i><br></br>
+        <strong>Music/ Choir Director</strong><i>(Sts. Mary and Andrew Church , Treasure Cay, Abaco, Bahamas ) |November 2023</i><br></br>
+        <strong>Music/Choir Director </strong><i>(St. Joseph Parish , Barcelona, Sorsogon, Philippines ) | April 2014 - November 2022</i> <br></br>
 
         </div>
       </div>
