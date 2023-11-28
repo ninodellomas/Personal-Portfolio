@@ -16,14 +16,14 @@ function Resume() {
             Master of Arts in Music Education in Music Education
             </span>
             <p>Bicol University , Legazpi City, Albay, Philippines</p>
+            <p>Complete Academic Requirements (33Credit Units)</p>
+              <p>GPA: 4.00</p>
             <div className="flex items-center gap-1">
               <FaCalendarDay className="text-primary" />{" "}
               <p>August 2021 - December 2022</p>
               <br></br>
 
-              <h3>Complete Academic Requirements (33Credit Units)</h3>
-              <br></br>
-              <h3>GPA: 4.00</h3>
+            
             </div>
           </div>
           <div className="border-l-[1px] border-black rounded-[35px] w-full flex items-center justify-center h-[250px]"></div>
@@ -33,12 +33,13 @@ function Resume() {
             Bachelor of Secondary Education in Music, Arts, Physical Education and Health
             </span>
             <p>Sorsogon State University, Sorsogon, Philippines</p>
+            <p>GPA: 3.39</p>
             <div className="flex items-center gap-1">
               <FaCalendarDay className="text-primary" />{" "}
               <p>June 2013 - March 2017</p>
-              <br></br>
+            
 
-              <h3>GPA: 3.39</h3>
+              
             </div>
           </div>
         </div>
