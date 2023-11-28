@@ -27,6 +27,8 @@ const About = () => {
             <li>Pedagogical Expertise</li>
           </ul>
           </div>
+          <br></br>
+          
           <div className="w-ful flex flex-col justify-center items-center">
           <div className="text-center space-y-[20px]">
             <h1 className="text-primary text-[32px]"> Professional Experience</h1>
