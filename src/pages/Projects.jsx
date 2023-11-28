@@ -9,35 +9,58 @@ const Projects = () => {
       className="w-full flex flex-col max-w-[1200px] mx-auto my-[50px] space-y-2 px-[15px] md:px-[30px]"
     >
       <div className="mx-auto text-center">
-        <h1 className="text-primary text-[32px]">PROJECTS</h1>
-        <p>what I've built</p>
+        <h1 className="text-primary text-[32px]">Certifications</h1>
+        <strong>Professional Educator License</strong><i> Illinois State Board of Education | November 2023</i>
+
+        <p>Endorsement in Music (PreK to Grade 12)</p>
+        
+        <strong>Professional Teacher (Secondary)</strong><i>
+        Professional Regulation Commission | December 2017</i>
+        <p>Music, Arts, Physical Education and Health</p>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 place-items-center w-full py-[50px] gap-[32px] flex-1">
-        <Project
-          title="Note Taking App"
-          alt="image"
-          image="https://images.ctfassets.net/lzny33ho1g45/3x94Kjg8z9fN0zryKetKbf/0c4bb21e7b2e44e1ed7b2ef11a44bb10/best-note-taking-app-for-ipad-iphone-00-hero.png"
-          link="https://github.com/the-name-romel/nodejs-note-app"
-        />
-        <Project
-          title="Weather App"
-          alt="image"
-          image="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/d0/ef/b2d0efa6-060a-76a5-d169-83ca6011c193/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
-          link="https://github.com/the-name-romel/weather-app"
-        />
-        <Project
-          title="Chat App"
-          alt="image"
-          image="http://www.yabb.com/blog/wp-content/uploads/2019/06/Chat-Apps-2019.jpg"
-          link="https://github.com/the-name-romel/chat-app"
-        />
-        <Project
-          title="Portfolio"
-          alt="image"
-          image={portfolio}
-          link="https://github.com/the-name-romel/my-portfolio"
-        />
+      <div
+      name="projects"
+      className="w-full flex flex-col max-w-[1200px] mx-auto my-[50px] space-y-2 px-[15px] md:px-[30px]"
+    >
+      <div className="mx-auto text-center">
+        <h1 className="text-primary text-[32px]">Volunteering</h1>
+        <strong>Music/Choir Director</strong><i>(St. Francis de Sales Church , Marsh Harbour, Abaco, Bahamas ) |November 2022</i><br></br>
+        <strong>Music/ Choir Director</strong><i>(Sts. Mary and Andrew Church , Treasure Cay, Abaco, Bahamas ) |November 2023</i><br></br>
+        <strong>Music/Choir Director </strong><i>(St. Joseph Parish , Barcelona, Sorsogon, Philippines ) | April 2014 - November 2022</i> <br></br>
+
+        </div>
       </div>
+      <div
+      name="projects"
+      className="w-full flex flex-col max-w-[1200px] mx-auto my-[50px] space-y-2 px-[15px] md:px-[30px]"
+    >
+      <div className="mx-auto text-center">
+        <h1 className="text-primary text-[32px]">References</h1>
+        <strong>Ramon P. Estur</strong><i>(Principal III)</i>
+        <p>Barcelona National Comprehensive High School</p>
+        <p>+639283897693</p>
+        <p>ramonestur65@gmail.com</p>
+        <br></br>
+        <strong>Casimira Jarabo</strong><i>(Former Principal)</i>
+        <p>Basic Education Department</p>
+        <p>St. Louise de Marillac College of Sorsogon, Inc.</p>
+        <p>+639060980900</p>
+        <p>merly_jarabo@yahoo.com</p>
+        <br></br>
+        <strong>Jestonie E. Furio</strong><i>(Former Subject Coordinator)</i>
+        <p>Barcelona National Comprehensive High School</p>
+        <p>+639630320611</p>
+        <p>furiojestonie@gmail.com</p>
+        
+
+        </div>
+      </div>
+
+
+
+
+
+
     </div>
   );
 };
