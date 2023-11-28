@@ -32,7 +32,7 @@ const About = () => {
           <div className="w-ful flex flex-col justify-center items-center">
           <div className="text-center space-y-[20px]">
             <h1 className="text-primary text-[32px]"> Professional Experience</h1>
-            <h3>Music Teacher (Full Time)</h3>
+            <h2>Music Teacher (Full Time)</h2>
             <p>The Catholic Board of Education Bahamas | November 2022 - Present</p>
 
             <ul>
@@ -44,7 +44,7 @@ const About = () => {
                  <li>Won the National Arts Festivals with Distinction Award in the Gospel Choir Category, and Merit and Credit Awards in Solo and Duet Singing Categories.</li>
              </ul>
                       <br></br>
-                <h3>Music, Arts, Physical Education, and Health Teacher (Full Time)</h3>
+                <h2>Music, Arts, Physical Education, and Health Teacher (Full Time)</h2>
                 <p>Department of Education/ Barcelona National Comprehensive High School/Philippines | August 2019 - December 2022</p>
               <ul>
                 <li>Actively participated in the design and development of the music curriculum, aligning  it with national educational standards and regional needs.</li>
@@ -60,7 +60,7 @@ const About = () => {
                 <li>Engaged in various regional and national cultural activities, contributing to the promotion of Filipino arts and cultural identity.</li>
               </ul>   
                       <br></br>
-                <h3>Music, Arts, Physical Education, and Health Teacher (Full Time)</h3>
+                <h2>Music, Arts, Physical Education, and Health Teacher (Full Time)</h2>
                 <p>St. Louise de Marillac College of Sorsogon Inc./Philippines | June 2017- April 2019</p>
               <ul>
                 <li>Meticulously aligned lessons with the prescribed Department of Education curriculum, ensuring that each activity and objective is in harmony with educational standards.</li>
@@ -72,6 +72,11 @@ const About = () => {
                 <li>Collaborated in co-directing a school benefi t concert that garnered significant success, raising more than twenty thousand US dollars ($20,000).</li>
                                       
                </ul>
+               <br></br>
+               <br></br>
+               <br></br>
+               <br></br>
+               <br></br>
                 </div>
               </div>
             </div>
