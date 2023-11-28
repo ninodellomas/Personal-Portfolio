@@ -5,7 +5,7 @@ function Resume() {
   return (
     <div className="w-full bg-bgColor p-[15px] mb-12" name="resume">
       <div className="max-w-[1200px] mx-auto w-full h-full gap-2">
-        <h1 className="text-primary text-[32px] text-center">RESUME</h1>
+        <h1 className="text-primary text-[32px] text-center">Resume</h1>
         <div className="flex items-center gap-1">
           <FaBook className="text-primary text-[24px]" />{" "}
           <span className="text-[32px]">Education</span>

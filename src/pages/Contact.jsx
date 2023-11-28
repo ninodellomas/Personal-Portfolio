@@ -6,7 +6,7 @@ function Contact() {
     <div className="w-full max-w-[1200px] mx-auto" name="contact">
       <div className="w-full py-[50px] px-[30px]">
         <div className="mx-auto text-center">
-          <h1 className="text-primary text-[32px]">CONTACT</h1>
+          <h1 className="text-primary text-[32px]">Contact</h1>
           <p>Get in touch</p>
         </div>
         <div className="flex flex-col md:flex-row gap-5 mt-5 justify-center">

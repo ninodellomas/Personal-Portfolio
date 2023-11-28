@@ -189,7 +189,7 @@ const Navbar = () => {
           </ul>
 
           <div className="max-h-[150px] w-full h-full flex flex-col justify-center items-center gap-1">
-            <p className="text-[18px] text-primary">LET'S CONNECT</p>
+            <p className="text-[18px] text-primary">Let's connect</p>
             <div className="flex gap-5">
               <a
                 href="https://www.facebook.com/nino.dellomas"

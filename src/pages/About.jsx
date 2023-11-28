@@ -15,7 +15,7 @@ const About = () => {
         </div>
         <div className="w-ful flex flex-col justify-center items-center">
           <div className="text-center space-y-[20px]">
-            <h1 className="text-primary text-[32px]"> KEY SKILLS</h1>
+            <h1 className="text-primary text-[32px]"> Key Skills</h1>
             <ul>
             <li>Vocal Expertise</li>
             <li>Instrumental Profi ciency</li>
