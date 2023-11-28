@@ -97,7 +97,7 @@ const Navbar = () => {
           >
             contact
           </Link>
-          <a download href="assets\pdf\NINO_DELLOMAS.pdf" target="_blank" type="button" className="bg-primary text-white text-[16px] px-[28px] py-[16px] hover:bg-opacity-80"
+          <a download ="" href="assets/pdf/NINO_DELLOMAS.pdf" target="_blank" type="button" className="bg-primary text-white text-[16px] px-[28px] py-[16px] hover:bg-opacity-80"
           >
             Download CV
           </a>
