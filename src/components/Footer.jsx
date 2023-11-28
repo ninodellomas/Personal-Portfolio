@@ -7,10 +7,10 @@ export default function Footer() {
         <p>Niño Dellomas 2023</p>
         <p className="flex gap-3">
           <span>
-            <a href="https://www.facebook.com/nino.dellomas">Facebook</a>
+            <a href="https://www.facebook.com/nino.dellomas" target="_blank">Facebook</a>
           </span>
           <span>
-            <a href="https://github.com/ninodellomas">Github</a>
+            <a href="https://github.com/ninodellomas" target="_blank">Github</a>
           </span>
         </p>
       </div>
