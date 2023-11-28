@@ -1,5 +1,4 @@
 import React from "react";
-import { css, html, js, node, react, tailwind } from "../assets/img";
 
 const About = () => {
   return (
