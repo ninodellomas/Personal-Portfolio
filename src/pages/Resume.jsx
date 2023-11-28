@@ -13,37 +13,29 @@ function Resume() {
         <div className="grid grid-cols-2 h-full">
           <div className="border-r-[1px] border-black rounded-[35px] w-full flex flex-col text-center items-center justify-center h-[250px] px-2">
             <span className="font-bold">
-              Bachelor of Science in Information Technology
+            Master of Arts in Music Education in Music Education
             </span>
-            <p>Sorsogon State University Bulan Campus</p>
+            <p>Bicol University , Legazpi City, Albay, Philippines</p>
             <div className="flex items-center gap-1">
               <FaCalendarDay className="text-primary" />{" "}
-              <strong>2020 - Present</strong>
+              <p>August 2021 - December 2022</p>
+              <p>Complete Academic Requirements (33Credit Units)</p>
+              <p>GPA: 4.00</p>
             </div>
           </div>
           <div className="border-l-[1px] border-black rounded-[35px] w-full flex items-center justify-center h-[250px]"></div>
           <div className="border-r-[1px] border-black rounded-[35px] w-full flex items-center justify-center h-[250px]"></div>
           <div className="border-l-[1px] border-black rounded-[35px] w-full flex flex-col text-center items-center justify-center h-[250px] px-2">
             <span className="font-bold">
-              Secondary <br /> EIM and GAS
+            Bachelor of Secondary Education in Music, Arts, Physical Education and Health
             </span>
-            <p>Magallanes National Vocational High School</p>
+            <p>Sorsogon State University, Sorsogon, Philippines</p>
             <div className="flex items-center gap-1">
               <FaCalendarDay className="text-primary" />{" "}
-              <strong>2014 - 2020</strong>
+              <p>June 2013 - March 2017</p>
+              <p>GPA: 3.39</p>
             </div>
           </div>
-          <div className="border-r-[1px] border-black rounded-[35px] w-full flex flex-col text-center items-center justify-center h-[250px] px-2">
-            <span className="font-bold">Primary</span>
-            <p>
-              Magallanes North Central School <br /> Magallanes, Sorsogon
-            </p>
-            <div className="flex items-center gap-1">
-              <FaCalendarDay className="text-primary" />{" "}
-              <strong>2009 - 2014</strong>
-            </div>
-          </div>
-          <div className="border-l-[1px] border-black rounded-[35px] w-full flex items-center justify-center h-[250px]"></div>
         </div>
       </div>
     </div>
