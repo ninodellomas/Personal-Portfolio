@@ -1,6 +1,4 @@
 import React from "react";
-import { portfolio } from "../assets/img";
-import { Project } from "../components/Project";
 
 const Projects = () => {
   return (
