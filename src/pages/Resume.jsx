@@ -18,9 +18,12 @@ function Resume() {
             <p>Bicol University , Legazpi City, Albay, Philippines</p>
             <div className="flex items-center gap-1">
               <FaCalendarDay className="text-primary" />{" "}
-              <p>August 2021 - December 2022</p><br></br>
-              <p>Complete Academic Requirements (33Credit Units)</p><br></br>
-              <p>GPA: 4.00</p>
+              <p>August 2021 - December 2022</p>
+              <br></br>
+
+              <h3>Complete Academic Requirements (33Credit Units)</h3>
+              <br></br>
+              <h3>GPA: 4.00</h3>
             </div>
           </div>
           <div className="border-l-[1px] border-black rounded-[35px] w-full flex items-center justify-center h-[250px]"></div>
@@ -32,8 +35,10 @@ function Resume() {
             <p>Sorsogon State University, Sorsogon, Philippines</p>
             <div className="flex items-center gap-1">
               <FaCalendarDay className="text-primary" />{" "}
-              <p>June 2013 - March 2017</p><br></br>
-              <p>GPA: 3.39</p>
+              <p>June 2013 - March 2017</p>
+              <br></br>
+
+              <h3>GPA: 3.39</h3>
             </div>
           </div>
         </div>
