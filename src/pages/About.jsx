@@ -41,7 +41,7 @@ const About = () => {
                  <li>Working towards integrating music into the broader school curriculum, fostering interdisciplinary connections and enhancing the overall educational experience.</li>
                  <li>Actively involved in organizing and directing various extracurricular musical activities, including school concerts, talent shows, and choir performances.</li>
                  <li>Won the National Arts Festivals with Distinction Award in the Gospel Choir Category, and Merit and Credit Awards in Solo and Duet Singing Categories.</li>
-                      <br>
+                      <br></br>
                 <h3>Music, Arts, Physical Education, and Health Teacher (Full Time)</h3>
                 <p>Department of Education/ Barcelona National Comprehensive High School/Philippines | August 2019 - December 2022</p>
                 <li>Actively participated in the design and development of the music curriculum, aligning  it with national educational standards and regional needs.</li>
@@ -55,7 +55,7 @@ const About = () => {
                 <li>Actively participated as a Guitar and Bass Player in the Bicol Regional Teachers Rondalla under DepEd Region V.</li>
                 <li>Trained and conducted a Rondalla ensemble, showcasing traditional Filipino string ensemble music.</li>
                 <li>Engaged in various regional and national cultural activities, contributing to the promotion of Filipino arts and cultural identity.</li>
-                      <br>
+                      <br></br>
                 <h3>Music, Arts, Physical Education, and Health Teacher (Full Time)</h3>
                 <p>St. Louise de Marillac College of Sorsogon Inc./Philippines | June 2017- April 2019</p>
                 <li>Meticulously aligned lessons with the prescribed Department of Education curriculum, ensuring that each activity and objective is in harmony with educational standards.</li>
@@ -72,7 +72,7 @@ const About = () => {
             </div>
           </div>
         </div>
-     </div>
+     
    
     
   );
